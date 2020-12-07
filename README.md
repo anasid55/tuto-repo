@@ -1,2 +1,2 @@
 # tuto-repo
-repository for the tutorial
+repository for the tutorial.
